@@ -29,7 +29,7 @@ const PROPERTIES = [
   {
     id: "juncal-sandino", title: "Chalet en zona residencial", address: "Juncal y Sandino", zone: "Excelente zona residencial · Tandil",
     type: "Casa", operation: "Venta", price: 300000, status: "Disponible", featured: true, badge: "Premium",
-    beds: 3, baths: 2, parking: 2, area: null, images: 14, cover: 2,
+    beds: 3, baths: 2, parking: 2, area: null, images: 18, cover: 16,
     short: "Amplio chalet en excelente estado, ideal para familia consolidada. Garage doble con parrilla.",
     description: "Hermoso chalet en excelente estado de mantenimiento, ideal para quienes buscan comodidad, amplitud y una ubicación residencial. Cuenta con 3 dormitorios, 2 baños, living, escritorio, cocina comedor y lavadero. Garage doble con parrilla y baño, y patio verde.",
     features: ["3 dormitorios", "2 baños", "Living + escritorio", "Cocina comedor", "Lavadero", "Garage doble con parrilla y baño", "Patio verde"],
@@ -37,7 +37,7 @@ const PROPERTIES = [
   {
     id: "pio-xii-1900", title: "Casa lista para entrar", address: "Pío XII al 1900", zone: "Zona residencial · Tandil",
     type: "Casa", operation: "Venta", price: 110000, status: "Disponible", featured: true, badge: null,
-    beds: 2, baths: 1, parking: 1, area: "Lote 266 m² · 83 m² cub.", images: 12, cover: 1,
+    beds: 2, baths: 1, parking: 1, area: "Lote 266 m² · 83 m² cub.", images: 12, cover: 3,
     short: "Terminaciones modernas: DVH, porcelanato y grifería monocomando. Patio verde y entrada vehicular.",
     description: "Casa lista para entrar a vivir, con muy buenas terminaciones: DVH, porcelanato, grifería monocomando y luminaria completa. 2 dormitorios con placard, patio verde y entrada vehicular. Sobre lote de 266,25 m² con 83 m² cubiertos aprox.",
     features: ["2 dormitorios con placard", "Patio verde", "Entrada vehicular", "DVH", "Porcelanato", "Grifería monocomando", "Lote 266,25 m² · 83 m² cubiertos"],
