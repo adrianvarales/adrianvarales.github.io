@@ -21,7 +21,7 @@ const PROPERTIES = [
   {
     id: "peyrel-2100", title: "Casa premium con pileta", address: "Peyrel 2100", zone: "Zona residencial · Tandil",
     type: "Casa", operation: "Venta", price: 250000, status: "Disponible", featured: true, badge: "Premium",
-    beds: 2, baths: 2, parking: 2, area: "Lote 15 × 30 m", images: 13, cover: 2,
+    beds: 2, baths: 2, parking: 2, area: "Lote 15 × 30 m", images: 14, cover: 1,
     short: "Impecable, con suite, vestidor, pileta y parrilla. Losa radiante y grandes ventanales.",
     description: "Casa de 2 habitaciones impecable, una en suite con vestidor. Living comedor amplio y cocina con barra desayunadora. Hermoso patio con piscina y parrilla, pasada vehicular para 2 vehículos. Calefacción por losa radiante, grandes ventanales con cortinas y alarma.",
     features: ["2 habitaciones (1 en suite con vestidor)", "2 baños completos", "Living comedor amplio", "Cocina con barra desayunadora", "Patio con piscina y parrilla", "Losa radiante", "Grandes ventanales · alarma", "Pasada para 2 autos", "Lote 15 × 30 m"],
