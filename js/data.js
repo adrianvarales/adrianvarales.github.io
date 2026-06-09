@@ -125,9 +125,9 @@ const PROPERTIES = [
   {
     id: "miramar-peatonal", title: "Departamento en Miramar", address: "Miramar — sobre peatonal", zone: "A 3 cuadras del mar",
     type: "Departamento", operation: "Venta", price: 65000, status: "Disponible", featured: false, badge: "Costa",
-    beds: 2, baths: 1, parking: null, area: null, images: 1, cover: 1, photosPending: true,
-    short: "Sobre la peatonal de Miramar, a 3 cuadras del mar. Ideal inversión o uso vacacional.",
-    description: "Departamento en Miramar, sobre la peatonal y a solo 3 cuadras del mar. 2 habitaciones, living comedor, cocina comedor, balcón, baño y lavadero. Edificio con ascensor. Ideal para inversión o uso vacacional. (Fotos a solicitar.)",
+    beds: 2, baths: 1, parking: null, area: null, images: 10, cover: 2,
+    short: "Sobre la peatonal de Miramar, a 3 cuadras del mar. Balcón con vista. Ideal inversión o uso vacacional.",
+    description: "Departamento en Miramar, sobre la peatonal y a solo 3 cuadras del mar. 2 habitaciones, living comedor, cocina comedor, balcón con vista, baño y lavadero. Edificio con ascensor. Ideal para inversión o uso vacacional.",
     features: ["2 habitaciones", "Living comedor", "Cocina comedor", "Balcón", "Baño + lavadero", "Edificio con ascensor"],
   },
   {
