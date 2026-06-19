@@ -68,7 +68,7 @@ const PROPERTIES = [
   },
   {
     id: "navarro-200", title: "Casa a estrenar, apta crédito", address: "Navarro al 200", zone: "Zona Tropezón · a metros de Av. Lunghi",
-    type: "Casa", operation: "Venta", price: 67500, status: "Disponible", featured: false, badge: "Apta crédito",
+    type: "Casa", operation: "Venta", price: 67500, status: "Disponible", featured: false, badge: "A estrenar",
     beds: 2, baths: 1, parking: 2, area: null, images: 9, cover: 1, aptoCredito: true,
     short: "PH contrafrente a estrenar, funcional y luminoso. Patio y entrada para 2 autos.",
     description: "Una excelente opción para quienes buscan una propiedad funcional, luminosa y apta crédito. PH contrafrente a estrenar, con 2 habitaciones, cocina integrada al living comedor, baño completo, patio y entrada para 2 autos.",
