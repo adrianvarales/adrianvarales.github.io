@@ -133,15 +133,15 @@ const PROPERTIES = [
   {
     id: "san-martin-2200", title: "Departamento en Mar del Plata", address: "San Martín al 2200 — peatonal", zone: "A 1 cuadra del mar · Mar del Plata",
     type: "Departamento", operation: "Venta", price: 56000, status: "Disponible", featured: false, badge: "Nuevo ingreso",
-    beds: 1, baths: 1, parking: null, area: null, images: 1, cover: 1, photosPending: true,
+    beds: 1, baths: 1, parking: null, area: null, images: 15, cover: 1,
     short: "Sobre la peatonal, a 1 cuadra del mar y 2 del Casino. Se vende amoblado. Ideal renta temporaria.",
-    description: "Departamento de 1 habitación en plena peatonal de Mar del Plata: a 2 cuadras del Casino, a 1 cuadra del mar y a la vuelta de los teatros. Se vende amoblado. Excelente ubicación turística y comercial, con muy buen potencial para renta temporaria. Sin estacionamiento. Actualmente sin gas, con posibilidad de realizar la instalación. Escucha ofertas no muy alejadas del valor. (Fotos a solicitar.)",
+    description: "Departamento de 1 habitación en plena peatonal de Mar del Plata: a 2 cuadras del Casino, a 1 cuadra del mar y a la vuelta de los teatros. Se vende amoblado. Excelente ubicación turística y comercial, con muy buen potencial para renta temporaria. Sin estacionamiento. Actualmente sin gas, con posibilidad de realizar la instalación. Escucha ofertas no muy alejadas del valor.",
     features: ["1 habitación", "Se vende amoblado", "A 1 cuadra del mar", "A 2 cuadras del Casino", "Ideal renta temporaria", "Sin estacionamiento", "Sin gas (posible instalación)"],
   },
   {
     id: "independencia-urquiza", title: "Lote en esquina", address: "Independencia y Urquiza", zone: "Esquina estratégica · Tandil",
     type: "Lote", operation: "Venta", price: 50000, status: "Disponible", featured: false, badge: "Inversión",
-    beds: null, baths: null, parking: null, area: "1.296 m²", images: 14, cover: 1, priceNote: "Libre de gastos",
+    beds: null, baths: null, parking: null, area: "1.296 m²", images: 2, cover: 1, priceNote: "Libre de gastos",
     short: "1.296 m² en esquina estratégica, con gran frente y ochava. Ideal inversión o desarrollo.",
     description: "Gran oportunidad para inversión, desarrollo o proyecto residencial en una esquina estratégica de la ciudad. Superficie total de 1.296 m², con amplio frente y gran visibilidad. Laterales linderos de 25,90 m y 28,90 m, frente y contrafrente de 42 m y 45 m, y ochava de 4,24 m. Entorno en crecimiento y fácil acceso: ideal para vivienda o emprendimientos inmobiliarios.",
     features: ["1.296 m²", "Esquina con ochava (4,24 m)", "Laterales 25,90 m y 28,90 m", "Frente/contrafrente 42 m y 45 m", "Gran visibilidad", "Ideal inversores y desarrolladores", "Libre de gastos"],
