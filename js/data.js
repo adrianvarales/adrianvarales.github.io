@@ -132,7 +132,7 @@ const PROPERTIES = [
   },
   {
     id: "independencia-urquiza", title: "Lote en esquina", address: "Independencia y Urquiza", zone: "Esquina estratégica · Tandil",
-    type: "Lote", operation: "Venta", price: 50000, status: "Disponible", featured: false, badge: "Inversión",
+    type: "Lote", operation: "Venta", price: 50000, status: "Vendida", featured: false, badge: null,
     beds: null, baths: null, parking: null, area: "1.296 m²", images: 14, cover: 1, priceNote: "Libre de gastos",
     short: "1.296 m² en esquina con gran frente y ochava. Ideal desarrollo, negocio o galpón.",
     description: "Gran oportunidad para inversión, desarrollo o proyecto en una esquina estratégica de la ciudad. Superficie total de 1.296 m², con gran frente, ochava y lote irregular. Ideal para constructor, desarrollador, negocio, galpón o emprendimiento.",
@@ -157,7 +157,7 @@ const PROPERTIES = [
   {
     id: "piedrabuena-2400", title: "Lote en Villa Italia", address: "Piedrabuena al 2400", zone: "Villa Italia · Tandil",
     type: "Lote", operation: "Venta", price: 25000, status: "Disponible", featured: false, badge: null,
-    beds: null, baths: null, parking: null, area: "249,5 m² · 10 × 24,95 m", images: 3, cover: 1, priceNote: "Libre de gastos",
+    beds: null, baths: null, parking: null, area: "249,5 m² · 10 × 24,95 m", images: 2, cover: 1, priceNote: "Libre de gastos",
     short: "249,5 m² en uno de los sectores de mayor desarrollo residencial de la ciudad.",
     description: "Excelente oportunidad para construir o invertir en Villa Italia, uno de los sectores con mayor desarrollo residencial de Tandil. Lote regular de 249,5 m² (10 m de frente × 24,95 m de fondo), fácil de aprovechar. Libre de gastos.",
     features: ["249,5 m²", "10 × 24,95 m", "Villa Italia", "Terreno regular", "Libre de gastos"],
