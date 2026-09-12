@@ -1,4 +1,4 @@
-﻿/* ============================================================
+/* ============================================================
    ADRIAN VARALES PROPIEDADES — Catálogo (Tandil, Bs. As.)
    Fuente: Excel "PROPIEDADES_STOCK_AV_PROP" + chat WhatsApp.
    "cover" = índice de la foto de portada (fachada para casas/deptos).
