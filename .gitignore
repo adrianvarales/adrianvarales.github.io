@@ -1,4 +1,4 @@
-# Temporales de desarrollo
+﻿# Temporales de desarrollo
 _shots/
 _chrometmp/
 _intake/
@@ -12,5 +12,5 @@ WhatsApp Chat*/
 *.xls
 *.zip
 *.mp4
-!_ads/*.mp4
+!ads-media/*.mp4
 *.csv
