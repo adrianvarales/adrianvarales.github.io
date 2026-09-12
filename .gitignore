@@ -12,4 +12,5 @@ WhatsApp Chat*/
 *.xls
 *.zip
 *.mp4
+!_ads/*.mp4
 *.csv
